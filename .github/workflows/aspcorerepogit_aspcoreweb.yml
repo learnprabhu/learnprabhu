@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'ASPCoreWeb'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FBF052BFD27C471CAC5CAE66516E4BD4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_911F1CD765E9475CBF65DB26CC0C943A }}
           package: .
